@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "VollMed",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

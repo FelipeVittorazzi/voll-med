@@ -1,0 +1,8 @@
+{
+  "name": "VollMed",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "0c0f547f"
+}
